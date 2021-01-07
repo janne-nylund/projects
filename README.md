@@ -1,1 +1,1 @@
-## 👋 `Hi there, my name is Janne Nylund`
+## 👋 `Hello World`
